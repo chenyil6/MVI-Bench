@@ -1,0 +1,1 @@
+Download MVI-Bench from Huggingface: [kittyhy/MVI-Bench](https://huggingface.co/datasets/kittyhy/MVI-Bench)
