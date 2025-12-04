@@ -3,6 +3,10 @@ A comprehensive vqa benchmark specifically designed to evaluate the robustness o
 
 # Quick start
 
+### Download MVI-Bench
+
+You can download MVI-Bench from [kittyhy/MVI-Bench](https://huggingface.co/datasets/kittyhy/MVI-Bench)
+
 ### Environment
 
 **For Qwen-VL series**
